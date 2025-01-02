@@ -1,0 +1,14 @@
+C:\Users\s1co5\Documents\cs-projs\tstclass\bin\Debug\net8.0\tstclass.exe
+C:\Users\s1co5\Documents\cs-projs\tstclass\bin\Debug\net8.0\tstclass.deps.json
+C:\Users\s1co5\Documents\cs-projs\tstclass\bin\Debug\net8.0\tstclass.runtimeconfig.json
+C:\Users\s1co5\Documents\cs-projs\tstclass\bin\Debug\net8.0\tstclass.dll
+C:\Users\s1co5\Documents\cs-projs\tstclass\bin\Debug\net8.0\tstclass.pdb
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.AssemblyInfoInputs.cache
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.AssemblyInfo.cs
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.csproj.CoreCompileInputs.cache
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.dll
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\refint\tstclass.dll
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.pdb
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.genruntimeconfig.cache
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\ref\tstclass.dll

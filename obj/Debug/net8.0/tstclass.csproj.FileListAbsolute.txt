@@ -12,3 +12,4 @@ C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\refint\tstclass.dll
 C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.pdb
 C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.genruntimeconfig.cache
 C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\ref\tstclass.dll
+C:\Users\s1co5\Documents\cs-projs\tstclass\obj\Debug\net8.0\tstclass.sourcelink.json

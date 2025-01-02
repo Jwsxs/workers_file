@@ -28,7 +28,7 @@ namespace Office {
             List<Workers> workers = new List<Workers>();
             while (true) {
                 Console.Clear();
-                Console.WriteLine("CAIO CASTRO\n-h para lista de comandos\n\n");
+                Console.WriteLine("-h para lista de comandos\n\n");
 
                 string choose = Console.ReadLine();
 
@@ -43,7 +43,7 @@ namespace Office {
                             while (!int.TryParse(Console.ReadLine(), out new_warea) || (new_warea <= 0)) {
                                 Console.Write("Entrada inválida...\nQual o setor em que ele trabalha? ");
                             }
-                            
+
                             workers.Add(new Workers(new_name, new_warea));
 
                             Console.Write($"\n{new_name} registrado com sucesso!\nAperte ENTER para continuar...");
@@ -97,7 +97,7 @@ namespace Office {
                                 case 'S':
                                     saveToFile("workers_list.txt", workers);
                                 break;
-                                
+
                                 default:
                                     saveToFile("workers_list.txt", workers);
                                 break;
@@ -119,7 +119,7 @@ namespace Office {
                             Console.WriteLine("Aperte ENTER para continuar.");
                             Console.ReadKey();
                         break;
-                        
+
                         default:
                             Console.Write("Use os comandos mostrados.");
                             Console.Write($"\nAperte ENTER para continuar...");
@@ -129,7 +129,7 @@ namespace Office {
                 }
             }
         }
-    
+
         public static void saveToFile(string path, List<Workers> workers) {
             string content = "";
             foreach (Workers worker in workers) {
@@ -138,3 +138,4 @@ namespace Office {
             File.WriteAllText(path, content, Encoding.UTF8);
         }
     }
+}

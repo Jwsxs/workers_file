@@ -5,4 +5,8 @@ i was basically "*freestyling*" what i was doing - had no idea of what i wanted 
 and, based on a [save/load](https://github.com/Jwsxs/save_load_cs) file i've made, you can export it to a .txt<br>
 
 ## how to use
+```cmd
+dotnet run
+```
+
 bnasically just type -h it'll help you figure it out
